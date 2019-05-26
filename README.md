@@ -1,0 +1,2 @@
+# rangerconfig
+My ranger config
