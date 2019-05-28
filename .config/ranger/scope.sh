@@ -1,12 +1,3 @@
-#!/usr/bin/env sh
-# ranger supports enhanced previews.  If the option "use_preview_script"
-# is set to True and this file exists, this script will be called and its
-# output is displayed in ranger.  ANSI color codes are supported.
-
-# NOTES: This script is considered a configuration file.  If you upgrade
-# ranger, it will be left untouched. (You must update it yourself.)
-# Also, ranger disables STDIN here, so interactive scripts won't work properly
-
 # Meanings of exit codes:
 # code | meaning    | action of ranger
 # -----+------------+-------------------------------------------
