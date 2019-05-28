@@ -1,2 +1,2 @@
-# rangerconfig
-My ranger config
+# Dotfiles
+My dotfiles
